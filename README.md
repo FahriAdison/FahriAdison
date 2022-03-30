@@ -6,7 +6,7 @@
  <h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
 <p align="center">
   <p align="center">
-    <a href="https://FahriAdison.github.io/">
+    <a href="https://yuri-neko.github.io/">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Gw Banh+🤗"
             alt="YuriNeko"
