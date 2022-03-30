@@ -7,7 +7,7 @@
 <p align="center">
   <p align="center">
     <img
-            src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Selamat+Datang+Di+Github+Gw Banh+🤗"
+            src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Welcome+In+My+Github+Banh+🤗"
             alt="FahriAdison"
         />
     </a>
@@ -50,6 +50,7 @@
 
 <p align="center">
   <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=FahriAdison&theme=tokyonight&show_icons=true" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingz-ui&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
