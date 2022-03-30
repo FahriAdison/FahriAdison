@@ -49,12 +49,6 @@
 </p>
     
 ------
- 
-### Github Stats 
-
-![github card](https://github-readme-stats.vercel.app/api?username=FahriAdison&show_icons=true&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahriAdison&theme=monokai)
 
 ### Repo Stats 
 
