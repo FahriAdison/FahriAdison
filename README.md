@@ -47,20 +47,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FahriAdison&label=VIEWS&style=flat-square&color=blue" />
 </p>
-
-```js
-
-var bio = `
-
-Name: Fahri
-From: Indonesia 🇮🇩
-Age: 15
-Currently learning: Html, JavaScript
-`
-return bio
-
-
-// Don't bully me >///<
     
 ------
  
@@ -75,5 +61,18 @@ return bio
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Marin-MD-V2&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Ran-Bot&theme=dark)
 
+```js
+
+var bio = `
+
+Name: Fahri
+From: Indonesia 🇮🇩
+Age: 15
+Currently learning: Html, JavaScript
+`
+return bio
+
+
+// Don't bully me >///<
 
 ```
