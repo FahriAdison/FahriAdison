@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=FahriAdison&theme=tokyonight&show_icons=true" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingz-ui&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahriAdison&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
