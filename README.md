@@ -1,5 +1,11 @@
 <p align="center">
-  <a href="https://github.com/FahriAdison"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+Fahri+Adison😼;currently+Learning+HTML+And+JavaScript;Don't+bully+me+im+still+noob>//<" alt="UwU">
+  <a href="https://github.com/FahriAdison"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+Fahri+Adison😼;Sedang+Belajar+HTML+Dan+JavaScript;Jgn+bully+gw+banh+masih+noob>//<" alt="UwU">
+</p>
+  
+---------
+  
+ <p align="center">
+<img src="https://shivsaga.com/wp-content/uploads/2022/02/my-dress-up-marin-e1644769857614.jpg" width="100%" alt="API Giphy logo"/>
 </p>
 
 ---------
