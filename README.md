@@ -3,11 +3,22 @@
 </p>
   
 ---------
-  
-<img
+ <h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
+<p align="center">
+  <p align="center">
+    <a href="https://yuri-neko.github.io/">
+        <img
             src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Gw Banh+🤗"
-            alt="FahriAdison"
+            alt="YuriNeko"
         />
+    </a>
+</p>
+<a href="https://github.com/FahriAdison"><img src="https://i.pinimg.com/originals/b8/a1/38/b8a138a955b1756c7d866701416818bc.gif" />
+</p>
+  <a href="https://github.com/FahriAdison"><img src="https://cardivo.vercel.app/api?name=Fahri&description=Hai,%20Aku%20Fahri%20dan%20Aku%20Hanya%20seorang%20programmer%20dan%20recode%20:).%20Aku%20%20Terkadang%20Suka%20Nonton%20Anime&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=senpai_chan_gemoy&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/FahriAdison"><img src="https://cardivo.vercel.app/api?name=Aku Sangat suka Menonton Anime:) &&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+</p>
+ <p align="center">
   
 ---------
   
