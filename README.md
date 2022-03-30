@@ -4,6 +4,13 @@
   
 ---------
   
+<img
+            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Gw Banh+🤗"
+            alt="FahriAdison"
+        />
+  
+---------
+  
  <p align="center">
 <img src="https://shivsaga.com/wp-content/uploads/2022/02/my-dress-up-marin-e1644769857614.jpg" width="100%" alt="API Giphy logo"/>
 </p>
