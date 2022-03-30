@@ -7,7 +7,7 @@
 <p align="center">
   <p align="center">
     <img
-            src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Selamat+Datang+Di+Github+Gw Banh+🤗"
+            src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Selamat+Datang+Di+Github+Gw Banh+🤗"
             alt="FahriAdison"
         />
     </a>
