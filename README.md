@@ -31,7 +31,7 @@
   <a href="https://instagram.com/FahriAdison" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/Papah-Chan" target="_blank">
+  <a href="bit.ly/Papah-Chan" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 <a href="https://wa.me/6285272821627" target="_blank">
