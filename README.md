@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/FahriAdison"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+Fahri+Adison😼;Sedang+Belajar+HTML+Dan+JavaScript;Jgn+bully+gw+banh+masih+noob>//<" alt="UwU">
+  <a href="https://github.com/FahriAdison"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+Fahri+Adison😼;Seorang+Pelajar+Kelas+9;Mendalami+JavaScript+Dan+HTML;Hobi+Ngebot+Doang;Pengen+Masuk+Jurusan+TKJ;Jgn+bully+gw+banh+masih+noob>//<" alt="UwU">
 </p>
   
 ---------
- <h1 align="center">Irasshaimase<img src="https://telegra.ph/file/f1af24f4caf67b575dce7.jpg" width="40px" alt=""><br></h1> 
+ <h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
 <p align="center">
   <p align="center">
     <img
@@ -12,7 +12,7 @@
         />
     </a>
 </p>
-<a href="https://github.com/FahriAdison"><img src="https://i.pinimg.com/originals/b8/a1/38/b8a138a955b1756c7d866701416818bc.gif" />
+<a href="https://github.com/FahriAdison"><img src="https://telegra.ph/file/f1af24f4caf67b575dce7.jpg" />
 </p>
   <a href="https://github.com/FahriAdison"><img src="https://cardivo.vercel.app/api?name=Fahri&description=Hai,%20Aku%20Fahri%20dan%20Aku%20Hanya%20seorang%20programmer%20dan%20recode%20:).%20Aku%20%20Terkadang%20Suka%20Nonton%20Anime&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=senpai_chan_gemoy&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/FahriAdison"><img src="https://cardivo.vercel.app/api?name=Aku Sangat suka Menonton Anime:) &&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
