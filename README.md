@@ -27,8 +27,17 @@
 
 ---------
 
-[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/senpai_chan_gemoy)
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17608914335)
+<p>Connect with me 👋</p>
+  <a href="https://instagram.com/FahriAdison" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/Papah-Chan" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
+  </a>
+<a href="https://wa.me/6285272821627" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
+  </a>
+
 
 ---------
 
