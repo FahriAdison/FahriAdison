@@ -71,7 +71,7 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/FahriAdison"><img src="https://github-profile-trophy.vercel.app/?username=FahriAdison&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/FahriAdison"><img src="https://github-profile-trophy.vercel.app/?username=FahriAdisontheme=monokai" /><a>
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahriAdison&theme=monokai)
