@@ -71,7 +71,7 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/FahriAdison"><img src="https://github-profile-trophy.vercel.app/?username=FahriAdisontheme=monokai" /><a>
+  ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=FahriAdison&theme=monokai)
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahriAdison&theme=monokai)
