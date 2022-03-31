@@ -70,9 +70,8 @@
   <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahriAdison&theme=tokyonight&layout=compact" /></a>
 </p>
   
-<p align="center">
+
   ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=FahriAdison&theme=monokai)
-</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahriAdison&theme=monokai)
 
