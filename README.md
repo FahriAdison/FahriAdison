@@ -34,7 +34,7 @@ ___
 ![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=FahriAdison&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FahriAdison&layout=compact&theme=highcontrast)
 
-### 💻 Bot Wa
+### 💻 SC Bot Wa
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Marin-MD-V2&theme=highcontrast)](https://github.com/FahriAdison/Marin-MD-V2)
