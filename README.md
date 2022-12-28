@@ -1,12 +1,12 @@
 ## Hello IM Fahri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
-<a href="https://github.com/FahriAdison"><img src="https://cardivo.vercel.app/api?name=Fahri&description=Hi,%20i%27m%20Fahri%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@senpai_chan_gemoy&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/FahriAdison"><img src="https://cardivo.vercel.app/api?name=ANGELO&description=Hi,%20i%27m%20Angelo%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@senpai_chan_gemoy&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 ### [`👇  INTRO MY SELF`]
 ```
 Intro =
 
-"Name": "Fahri Adison",
+"Name": "ANGELO",
 "Status": "Learning,Helping",
 "Address": "Air Molek, Kabupaten Indragiri Hulu, Indonesia",
 "Birthday": "June - 06"
@@ -24,9 +24,9 @@ ___
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/senpai_chan_gemoy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/ang_0y" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="bit.ly/Papah-Chan" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://wa.me/6281268416245" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://wa.me/212621851554" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
 ### 📉 My Stats
