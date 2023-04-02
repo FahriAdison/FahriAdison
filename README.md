@@ -38,7 +38,7 @@ ___
 ### 💻 SC Bot Wa
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Marin-MD-V2&theme=highcontrast)](https://github.com/FahriAdison/Sad-Multi-Device)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Sad-Multi-Device&theme=highcontrast)](https://github.com/FahriAdison/Sad-Multi-Device)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Ran-Bot&theme=highcontrast)](https://github.com/FahriAdison/Ran-Bot)
 
 ### 🏆 Trophy
