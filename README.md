@@ -48,10 +48,10 @@
 
 <p align="center">
   <a href="https://github.com/FahriAdison/Sad-Multi-Device" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Sad-Multi-Device&theme=highcontrast" alt="Sad-Multi-Device">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Alya-Go&theme=highcontrast" alt="Alya-Go">
   </a>
   <a href="https://github.com/FahriAdison/Ran-Bot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Ran-Bot&theme=highcontrast" alt="Ran-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Alya-Bot&theme=highcontrast" alt="Alya-Bot">
   </a>
 </p>
 
