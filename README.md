@@ -1,71 +1,92 @@
-<h1 align="center">Halo Nama Saya Fahri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px"></h1>
+# Hello, I'm Fahri Adison 👋
 
 <p align="center">
-  <a href="https://github.com/FahriAdison">
-    <img src="https://cardivo.vercel.app/api?name=Fahri&description=Hi,%20i%27m%20Fahri%20and%20i%27m%20just%20a%20newbie%20programmer.%20Currently%20learning%20Golang%20and%20Javascript.%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@papah_chan_ofc&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" />
+  <img src="https://cardivo.vercel.app/api?name=Fahri%20Adison&description=Passionate%20Developer%20%7C%20Golang%20%26%20JavaScript%20Enthusiast%20%7C%20Always%20Learning&image=https://wallpaperaccess.com/full/7857767.jpg&backgroundColor=%23ecf0f1&instagram=@papah_chan_ofc&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" />
+</p>
+
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/papah_chan_official)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/Papah-Chan)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282268003229)
+  
+</div>
+
+## 🚀 About Me
+
+I'm a passionate developer from Indonesia, currently diving deep into **Golang** and **JavaScript**. I love building projects, learning new technologies, and contributing to the open-source community.
+
+- 🌱 Currently learning: **Golang & JavaScript**
+- 🎯 Goal: Building efficient and scalable applications
+- 📍 Location: Air Molek, Indragiri Hulu, Indonesia
+- 🎂 Birthday: June 6th
+- 💬 Ask me about: Web Development, Bot Development, Backend APIs
+
+## 🛠️ Tech Stack
+
+### Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahriAdison&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahriAdison&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahriAdison&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/FahriAdison/Alya-Go">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Alya-Go&theme=tokyonight&hide_border=true" alt="Alya-Go" />
   </a>
-</p>
-
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  Hi, I'm Fahri Adison, a newbie programmer currently exploring the world of Golang and Javascript.  I'm passionate about learning and contributing.  Nice to meet you!
-</p>
-
-<details>
-  <summary>More About Me</summary>
-  <p>
-    <b>Name:</b> Fahri Adison<br>
-    <b>Status:</b> Playing, Learning, Helping<br>
-    <b>Location:</b> Air Molek, Kabupaten Indragiri Hulu, Indonesia<br>
-    <b>Birthday:</b> June 6th<br><br>
-    <b>Special Thanks To:</b><br>
-    - Allah SWT<br>
-    - All Sepuh<br>
-    - The Last Generation<br>
-    - My Friends
-  </p>
-</details>
-
-<p align="center">
-  <b>Follow Me On</b>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/papah_chan_official" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="bit.ly/Papah-Chan" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-  <a href="https://wa.me/6282268003229" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
-</p>
-
-<h2 align="center">My Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahriAdison&layout=compact&show_icons=true&theme=highcontrast&show_owner=true" alt="Fahri Github Statistic">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahriAdison&layout=compact&theme=highcontrast" alt="Github Top Languages">
-</p>
-
-<h2 align="center">Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/FahriAdison/Sad-Multi-Device" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Alya-Go&theme=highcontrast" alt="Alya-Go">
+  <a href="https://github.com/FahriAdison/Alya-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Alya-Bot&theme=tokyonight&hide_border=true" alt="Alya-Bot" />
   </a>
-  <a href="https://github.com/FahriAdison/Ran-Bot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Alya-Bot&theme=highcontrast" alt="Alya-Bot">
-  </a>
-</p>
+</div>
 
-<h2 align="center">Trophies & Streaks</h2>
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahriAdison&row=2&column=3&layout=compact&theme=onedark" alt="Trophies">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahriAdison" alt="Streak Stats">
-</p>
+- 🔭 Working on improving my **Golang** skills
+- 🌐 Building web applications with **JavaScript**
+- 🤖 Developing automation tools and bots
+- 📚 Learning best practices in software development
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahriAdison&label=VIEWS&style=flat-square&color=orange" alt="Profile Views">
-</p>
+## 🏅 Achievements
 
-<p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600">
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FahriAdison&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahriAdison&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss technology, projects, or just say hi!
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FahriAdison&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/FahriAdison">Fahri Adison</a></i>
+</div>
