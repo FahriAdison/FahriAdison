@@ -1,26 +1,27 @@
-# Hello, I'm Fahri Adison 👋
+# Hi there, I'm Fahri Adison 👋
 
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=Fahri%20Adison&description=Passionate%20Developer%20%7C%20Golang%20%26%20JavaScript%20Enthusiast%20%7C%20Always%20Learning&image=https://wallpaperaccess.com/full/7857767.jpg&backgroundColor=%23ecf0f1&instagram=@papah_chan_ofc&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" />
+  <!-- Personalized profile card generated via cardivo.vercel.app. Update the Instagram handle here and in the social links below if you change your username. -->
+  <img src="https://cardivo.vercel.app/api?name=Fahri%20Adison&description=Passionate%20Developer%20%7C%20Golang%20%26%20JavaScript%20Enthusiast%20%7C%20Lifelong%20Learner&image=https://wallpaperaccess.com/full/7857767.jpg&backgroundColor=%23ecf0f1&instagram=papah_chan_official&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" alt="Fahri Adison profile card" />
 </p>
 
 <div align="center">
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/papah_chan_official)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/Papah-Chan)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282268003229)
-  
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/papah_chan_official)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/Papah-Chan)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282268003229)
+
 </div>
 
-## 🚀 About Me
+## 🚀 About Me
 
-I'm a passionate developer from Indonesia, currently diving deep into **Golang** and **JavaScript**. I love building projects, learning new technologies, and contributing to the open-source community.
+I'm a developer from Indonesia who enjoys working with **Golang** and **JavaScript**. I love building projects, exploring new technologies and contributing to the open‑source community.
 
-- 🌱 Currently learning: **Golang & JavaScript**
-- 🎯 Goal: Building efficient and scalable applications
-- 📍 Location: Air Molek, Indragiri Hulu, Indonesia
-- 🎂 Birthday: June 6th
-- 💬 Ask me about: Web Development, Bot Development, Backend APIs
+- 🌱 **Currently learning:** deepening my understanding of **Golang & JavaScript**
+- 🎯 **Goal:** to build efficient and scalable applications
+- 📍 **Location:** Pekanbaru, Riau, Indonesia
+- 🎂 **Birthday:** June 6th
+- 💬 **Ask me about:** web development, bot development, backend APIs
 
 ## 🛠️ Tech Stack
 
