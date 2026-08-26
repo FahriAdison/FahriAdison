@@ -41,7 +41,7 @@ I'm a developer from Indonesia who enjoys working with **Typescript** and **Java
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=FahriAdison&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=solarized-light" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahriAdison&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FahriAdison" alt="GitHub Streak" />
 </div>
 
 <div align="center">
