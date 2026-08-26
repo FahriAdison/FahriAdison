@@ -75,12 +75,6 @@ I'm a developer from Indonesia who enjoys working with **Typescript** and **Java
   <img src="https://github-trophies.devomb.com/?username=FahriAdison&theme=light" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahriAdison&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss technology, projects, or just say hi!
