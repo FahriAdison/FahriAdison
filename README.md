@@ -69,7 +69,7 @@ I'm a developer from Indonesia who enjoys working with **Typescript** and **Java
 ## 🏅 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahriAdison&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=FahriAdison&theme=light" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
