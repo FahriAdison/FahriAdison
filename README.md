@@ -40,8 +40,11 @@ I'm a developer from Indonesia who enjoys working with **Typescript** and **Java
 ## 📊 GitHub Stats
 
 <div align="center">
+    <img src="https://streak-stats.demolab.com?user=FahriAdison" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=FahriAdison&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=solarized-light" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FahriAdison" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -61,7 +64,7 @@ I'm a developer from Indonesia who enjoys working with **Typescript** and **Java
 
 ## 🎯 Current Focus
 
-- 🔭 Working on improving my **Golang** skills
+- 🔭 Working on improving my **Typescript** skills
 - 🌐 Building web applications with **JavaScript**
 - 🤖 Developing automation tools and bots
 - 📚 Learning best practices in software development
