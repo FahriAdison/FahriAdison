@@ -52,10 +52,10 @@ I'm a developer from Indonesia who enjoys working with **Typescript** and **Java
 
 <div align="center">
   <a href="https://github.com/FahriAdison/Alya-Go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Alya-Go&theme=tokyonight&hide_border=true" alt="Alya-Go" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=FahriAdison&repo=FahriAdison%2FFurina-Go&show_owner=true&theme=default" alt="Furina-Go" />
   </a>
   <a href="https://github.com/FahriAdison/Alya-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Alya-Bot&theme=tokyonight&hide_border=true" alt="Alya-Bot" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=FahriAdison&repo=FahriAdison%2FAlya-Bot&show_owner=true&theme=shadow_green" alt="Alya-Bot" />
   </a>
 </div>
 
