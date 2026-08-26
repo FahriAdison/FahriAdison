@@ -7,26 +7,26 @@
 
 <div align="center">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/papah_chan_official)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/papah_chan_ofc)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/Papah-Chan)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282268003229)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285179855248)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a developer from Indonesia who enjoys working with **Golang** and **JavaScript**. I love building projects, exploring new technologies and contributing to the open‑source community.
+I'm a developer from Indonesia who enjoys working with **Typescript** and **JavaScript**. I love building projects, exploring new technologies and contributing to the open‑source community.
 
-- 🌱 **Currently learning:** deepening my understanding of **Golang & JavaScript**
+- 🌱 **Currently learning:** deepening my understanding of **Typescript & JavaScript**
 - 🎯 **Goal:** to build efficient and scalable applications
 - 📍 **Location:** Pekanbaru, Riau, Indonesia
 - 🎂 **Birthday:** June 6th
-- 💬 **Ask me about:** web development, bot development, backend APIs
+- 💬 **Ask me about:** web development, bot development.
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
