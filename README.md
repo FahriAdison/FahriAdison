@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Personalized profile card generated via cardivo.vercel.app. Update the Instagram handle here and in the social links below if you change your username. -->
-  <img src="https://cardivo.vercel.app/api?name=Fahri%20Adison&description=Passionate%20Developer%20%7C%20Golang%20and%20JavaScript%20Enthusiast%20%7C%20Lifelong%20Learner&image=https://wallpaperaccess.com/full/7857767.jpg&backgroundColor=%23ecf0f1&instagram=papah_chan_official&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" alt="Fahri Adison profile card" />
+  <img src="https://cardivo.vercel.app/api?name=Fahri%20Adison&description=Passionate%20Developer%20%7C%20TypeScript%20and%20JavaScript%20Enthusiast%20%7C%20Lifelong%20Learner&image=https://wallpaperaccess.com/full/7857767.jpg&backgroundColor=%23ecf0f1&instagram=papah_chan_official&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" alt="Fahri Adison profile card" />
 </p>
 
 <div align="center">
