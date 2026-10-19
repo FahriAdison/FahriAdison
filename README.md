@@ -1,90 +1,64 @@
-# Hi there, I'm Fahri Adison 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" alt="header" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFB224&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Papah+Chan+%F0%9F%91%8B;Android+Developer+%F0%9F%9A%80;Building+NanaPlay+%F0%9F%8E%AE" alt="Typing intro" />
+</div>
 
 <p align="center">
-  <!-- Personalized profile card generated via cardivo.vercel.app. Update the Instagram handle here and in the social links below if you change your username. -->
-  <img src="https://cardivo.vercel.app/api?name=Fahri%20Adison&description=Passionate%20Developer%20%7C%20TypeScript%20and%20JavaScript%20Enthusiast%20%7C%20Lifelong%20Learner&image=https://i.pinimg.com/originals/40/5a/17/405a170d05df4de50e01e8c5cd2a7250.jpg&backgroundColor=%23ecf0f1&instagram=papah_chan_ofc&github=FahriAdison&youtube=Papah-Chan&pattern=leaf&colorPattern=%23eaeaea" alt="Fahri Adison profile card" />
+  <strong>GeForce NOW on Android, with a console feel</strong> — that's what I ship.<br>
+  Open-source Android dev from Indonesia, building in the open with my community.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FahriAdison&color=FFB224&style=flat" alt="Profile views" />
+  <a href="https://discord.gg/TyBrNKnavR"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+---
+
+### 🔭 What I'm up to
+
+- Shipping **NanaPlay** — open-source GeForce NOW client for Android (Kotlin + Jetpack Compose), updated from real community requests
+- Running the **Papah-Chan Store** community (Discord + WhatsApp)
+- Exploring AI-native dev workflows — my phone is the lab, my community is the QA team
+
+### 🛠️ Tech I actually use
+
 <div align="center">
-
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/papah_chan_ofc)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/Papah-Chan)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285179855248)
-
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,ts,js,nodejs,python,git,github,vscode&theme=dark" alt="Tech stack" />
 </div>
 
-## 🚀 About Me
-
-I'm a developer from Indonesia who enjoys working with **Typescript** and **JavaScript**. I love building projects, exploring new technologies and contributing to the open‑source community.
-
-- 🌱 **Currently learning:** deepening my understanding of **Typescript & JavaScript**
-- 🎯 **Goal:** to build efficient and scalable applications
-- 📍 **Location:** Pekanbaru, Riau, Indonesia
-- 🎂 **Birthday:** June 6th
-- 💬 **Ask me about:** web development, bot development.
-
-## 🛠️ Tech Stack
-
-### Languages
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Technologies
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=FahriAdison" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahriAdison&show_icons=true&theme=tokyonight&hide_border=true" alt="FahriAdison's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=FahriAdison&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahriAdison&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=FahriAdison&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=solarized-light" alt="GitHub Stats" />
-</div>
+### 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| [NanaPlay](https://github.com/FahriAdison/NanaPlay) | Open-source Android client for GeForce NOW — console-mode UI, custom touch layouts, queue redesign |
+| [wuwa_api](https://github.com/FahriAdison/wuwa_api) | Public web API for Wuthering Waves |
+| [agy-deck](https://github.com/FahriAdison/agy-deck) | Terminal-style web assistant deck |
+
+### 📫 Where to find me
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=FahriAdison&layout=compact&langs_count=4&theme=gruvbox_light" alt="Top Languages" />
-</div>
 
-## 🏆 Featured Projects
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/papah_chan_ofc)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/Papah-Chan)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/papahchanstore)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TyBrNKnavR)
 
-<div align="center">
-  <a href="https://github.com/FahriAdison/Alya-Go">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=FahriAdison&repo=FahriAdison%2FFurina-Go&show_owner=true&theme=default" alt="Furina-Go" />
-  </a>
-  <a href="https://github.com/FahriAdison/Alya-Bot">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=FahriAdison&repo=FahriAdison%2FAlya-Bot&show_owner=true&theme=shadow_green" alt="Alya-Bot" />
-  </a>
-</div>
-
-## 🎯 Current Focus
-
-- 🔭 Working on improving my **Typescript** skills
-- 🌐 Building web applications with **JavaScript**
-- 🤖 Developing automation tools and bots
-- 📚 Learning best practices in software development
-
-## 🏅 Achievements
-
-<div align="center">
-  <img src="https://github-trophies.devomb.com/?username=FahriAdison&theme=light" alt="GitHub Trophies" />
-</div>
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss technology, projects, or just say hi!
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahriAdison&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-<div align="center">
-  <i>⭐ From <a href="https://github.com/FahriAdison">Fahri Adison</a></i>
-</div>
+⚡ Fun fact: every NanaPlay release is tested on my own phone before it ships — my realme is the QA lab.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" alt="footer" />
