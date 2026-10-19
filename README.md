@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=21262d&height=120&section=header" alt="header" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFB224&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Papah+Chan+%F0%9F%91%8B;Android+Developer+%F0%9F%9A%80;Building+NanaPlay+%F0%9F%8E%AE" alt="Typing intro" />
@@ -61,4 +61,4 @@
 
 ⚡ Fun fact: every NanaPlay release is tested on my own phone before it ships — my realme is the QA lab.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=21262d&height=120&section=footer" alt="footer" />
